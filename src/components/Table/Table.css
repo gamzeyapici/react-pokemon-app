@@ -1,0 +1,8 @@
+.pokemon-list {
+
+}
+
+.pokemon-list tbody tr:hover {
+    background: #f0f0f0;
+    cursor: pointer;
+}
